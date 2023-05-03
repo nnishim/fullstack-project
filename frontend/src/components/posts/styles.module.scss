@@ -1,0 +1,16 @@
+.wrap {
+	padding: 20px 0;
+}
+
+.create_post {
+	display: flex;
+	justify-content: end;
+	margin-bottom: 20px;
+
+	&__btn {
+		background: #7e57c2;
+		padding: 10px 30px;
+		color: #ffffff;
+		border-radius: 5px;
+	}
+}
